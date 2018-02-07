@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Página nueva"
+title:  "Pagina nueva"
 date:   2018-02-07
 category: [personal]
 ---
