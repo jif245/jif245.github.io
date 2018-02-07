@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Writing My Own Post"
-date:   2018-01-22
+title:  "Editando lo que existe"
+date:   2018-02-07
 categories: [ one, two, three ]
 ---
-
-## Apply your markdown knowledge!
 
 ### Probando, probando. 
 Quiero probar cómo funciona esto. 
 
 Acá un link a un video:
-https://www.youtube.com/watch?v=LU1U2Eyep_4
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=LU1U2Eyep_4)
