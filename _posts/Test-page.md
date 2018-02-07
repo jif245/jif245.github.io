@@ -4,4 +4,6 @@ title:  "Página nueva"
 date:   2018-02-07
 ---
 
-![](https://images.pexels.com/photos/813713/pexels-photo-813713.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb)
+Una página de cero
+
+![](https://cdn.shopify.com/s/files/1/0194/3561/products/MC5_AT_BMO_1024x1024.jpg?v=1475510633)
