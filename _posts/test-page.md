@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Página nueva"
 date:   2018-02-07
 ---
