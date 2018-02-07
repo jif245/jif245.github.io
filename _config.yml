@@ -9,8 +9,7 @@ description:      Sample Page from workshop
 url:              ''
 baseurl:          '' # ''
 
-twitter_username: mariinyrop
-github_username:  mnyrop
+github_username:  jif245
 
 # Build settings
 markdown:         kramdown
