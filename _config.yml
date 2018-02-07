@@ -5,7 +5,7 @@
 # Site settings
 title:            Sample Page
 email:            example@example.com
-description:      Lorem ipsum dolor sit amet...
+description:      Sample Page from workshop
 url:              ''
 baseurl:          '' # ''
 
