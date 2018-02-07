@@ -7,4 +7,8 @@ categories: [ one, two, three ]
 
 ## Apply your markdown knowledge!
 
-I'm a brand new post and can be about anything you want. Try playing around with lists, links, images, and etc., and reference the [Markdown Cheatsheet](https://github.com/mnyrop/nycdh-jekyll/blob/master/docs/markdown-cheatsheet.md) whenever you get stuck.
+### Probando, probando. 
+Quiero probar cómo funciona esto. 
+
+Acá un link a un video:
+https://www.youtube.com/watch?v=LU1U2Eyep_4
