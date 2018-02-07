@@ -2,6 +2,7 @@
 layout: post
 title:  "Página nueva"
 date:   2018-02-07
+category: [personal]
 ---
 
 Una página de cero
